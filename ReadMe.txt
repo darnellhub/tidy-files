@@ -14,7 +14,6 @@ How to use
 2. Open the application by running the main.py file.
 3. Click on the "Select Folder" button and select the folder you want to sort.
 4. Press the "Sort" button and wait for the sorting process to complete.
-5. The sorted files will be placed in their respective folders and any remaining files will be placed in the "OTHER" folder.
 
 File Types
 
